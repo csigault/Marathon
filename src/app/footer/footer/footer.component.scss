@@ -1,0 +1,52 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+ 
+.footer {
+    position: relative;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    background: #f4f4f4;
+    color: #34414a;
+    border-top: #21e5be solid 2px;
+    margin-top: 4%;
+    //margin-top: 2%;
+}
+.linkfooter {
+    text-align: center;
+    font-size:10px;
+    margin-top: 0px;
+}
+.linkfooter a {
+text-decoration: none;
+color: #34414a;
+}
+.partenaires {
+    text-align: center;
+    height: 80px;
+    margin-top: 13px;
+}
+
+/*Smartphones (portrait)*/
+@media only screen and (max-width : 1200px) {
+    .sup-img {
+        display: none;
+        
+    }
+    .partenaires {
+        height: 90px;
+    }
+} 
+
+@media only screen and (max-width : 700px) {
+    .sup-img {
+        display: none;
+        
+    }
+    .partenaires {
+        height: 70px;
+    }
+} 

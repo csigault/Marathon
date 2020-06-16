@@ -1,0 +1,22 @@
+
+/*.container { //margin:13% auto;
+    //max-width: 940px;
+    padding-left: 0px;
+padding-right: 0px;
+margin-top: 0px;
+//margin-right: 0px;
+}*/
+.background {
+  content: '';
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../assets/img/ecran-log-fd3.jpg");
+  //background: url('https://images.pexels.com/photos/1563564/pexels-photo-1563564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') no-repeat;
+  background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  color: white;
+}
+

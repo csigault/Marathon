@@ -1,0 +1,23 @@
+{
+  "runners" : [ null, null, null, {
+    "firstname": "Benoît",
+    "name" : "Lessaud",
+    "distance" : "10 km"
+  }, {   
+    "firstname" : "Pauline",
+    "name" : "Lafond",
+    "distance" : "10 km"
+  }, {
+    "firstname": "Benjamin",
+    "name" : "Landier",
+    "distance" : "42 km"
+  }, {
+    "firstname": "Paul",
+    "name" : "Lanate",
+    "distance" : "2x21 km"
+  }, {
+    "firstname": "Batiste",
+    "name" : "Wiroth",
+    "distance" : "2x21 km"
+  }]
+}
